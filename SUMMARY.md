@@ -4,7 +4,9 @@
 ノウハウを身につけていくことが目的です。
 
 * [第一章: Hello World Asakusa](chapter1/README.md)
-  * [開発環境の整備(IntelliJ)](chapter1/IntelliJ.md)
+  * [開発環境の整備](chapter1/devenv.md)
+      * [Jinrikisha](chapter1/Jinrikisha.md)
+      * [IntelliJ](chapter1/IntelliJ.md)
   * [空のHello World](chapter1/section1.md)
   * [入出力のあるHello World](chapter1/section2.md)
   * [ワードカウント](chapter1/section3.md)
